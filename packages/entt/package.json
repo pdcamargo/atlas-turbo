@@ -1,0 +1,10 @@
+{
+  "name": "@atlas/entt",
+  "version": "0.0.1",
+  "dependencies": {
+    "typescript": "latest"
+  },
+  "exports": {
+    ".": "./src/index.ts"
+  }
+}
